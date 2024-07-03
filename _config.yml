@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
+remote_theme: pages-themes/tactile@v0.2.0
+title: Sanchez FC
 description: Bunch of cool projects here!!!
 
 plugins:
   - jemoji
+  - jekyll-remote-theme
 url: "https://97007kim.github.io/"
 markdown: kramdown
