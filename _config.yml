@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 title: [Sanchez FC]
-description: [Watch me whip, watch me nae nae]
+description: [Hey welcome to my house. This is where I post some fun stuffs.]
 
 plugins:
   - jemoji
